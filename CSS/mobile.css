@@ -1,0 +1,8 @@
+#nav .logo {
+  float: none;
+}
+#nav ul,
+#nav ul li {
+  float: none;
+  width: 100%;
+}
